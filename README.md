@@ -9,4 +9,4 @@
 
 - 📫 **dev.hieunguyen03@gmail.com**
 
-![snake gif](https://github.com/trunghieu2803/trunghieu2803/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/trunghieu2803/trunghieu2803/blob/output/github-contribution-grid-snake-dark.svg)
